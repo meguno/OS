@@ -1,0 +1,41 @@
+# Visual Studio 2022
+.vs/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+ipch/
+*.tlog
+*.log
+*.ilk
+*.pdb
+*.pc
+*.idb
+
+# Compiled files
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pch
+*.res
+*.exp
+*.ilk
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# CMake (если используется)
+[Cc]make/
+cmake-build-*/
